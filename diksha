@@ -1,0 +1,19 @@
+	git config --global user.name "User name"
+
+2.	git config --global user.email "email”
+
+3.	git config –list
+
+4.	git init (Create a local repository)
+
+5.	creat a file in folder
+
+6.	git add . (Add all files of a repo to staging (Index) area)
+
+7.	git commit -m " Commit Message"
+
+8.	git remote add origin https://github.com/code-wit-yash/practical.git (your github repository link)
+
+9.	git push -u origin master
+
+10.	git branch newBranch (Create branch)
